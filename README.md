@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dedicated to mastering new programming languages and exploring advanced technologies 💻<br>Prefer working in CLI environments over GUI for enhanced efficiency 🖥️<br>Passionate about networking and its complexities 🌐<br>Disinterested in shortcut methods such as UI/UX design 🚫<br>Fun fact: I'm Moody
+Dedicated to mastering new programming languages and exploring advanced technologies 💻<br>Prefer working in CLI environments over GUI for enhanced efficiency 🖥️<br>Passionate about networking and its complexities 🌐<br> 🚫<br>Fun fact: I'm Moody
 
 
 ## 🌐 Socials:
